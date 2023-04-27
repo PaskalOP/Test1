@@ -1,0 +1,15 @@
+/Users/olga/Desktop/I am programer/Test1_Paskal_OP/Task/bin/Debug/net6.0/Task
+/Users/olga/Desktop/I am programer/Test1_Paskal_OP/Task/bin/Debug/net6.0/Task.deps.json
+/Users/olga/Desktop/I am programer/Test1_Paskal_OP/Task/bin/Debug/net6.0/Task.runtimeconfig.json
+/Users/olga/Desktop/I am programer/Test1_Paskal_OP/Task/bin/Debug/net6.0/Task.dll
+/Users/olga/Desktop/I am programer/Test1_Paskal_OP/Task/bin/Debug/net6.0/Task.pdb
+/Users/olga/Desktop/I am programer/Test1_Paskal_OP/Task/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/Users/olga/Desktop/I am programer/Test1_Paskal_OP/Task/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olga/Desktop/I am programer/Test1_Paskal_OP/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/Users/olga/Desktop/I am programer/Test1_Paskal_OP/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/Users/olga/Desktop/I am programer/Test1_Paskal_OP/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/Users/olga/Desktop/I am programer/Test1_Paskal_OP/Task/obj/Debug/net6.0/Task.dll
+/Users/olga/Desktop/I am programer/Test1_Paskal_OP/Task/obj/Debug/net6.0/refint/Task.dll
+/Users/olga/Desktop/I am programer/Test1_Paskal_OP/Task/obj/Debug/net6.0/Task.pdb
+/Users/olga/Desktop/I am programer/Test1_Paskal_OP/Task/obj/Debug/net6.0/Task.genruntimeconfig.cache
+/Users/olga/Desktop/I am programer/Test1_Paskal_OP/Task/obj/Debug/net6.0/ref/Task.dll
